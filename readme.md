@@ -71,13 +71,9 @@ Real-time collaborative checkbox board.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARRGUPT" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARRGUPT&theme=dark" height="180em"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARRGUPT&layout=compact&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARRGUPT&layout=compact&theme=dark" height="180em"/>
 
 ---
 
