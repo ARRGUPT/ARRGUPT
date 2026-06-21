@@ -19,43 +19,17 @@ Currently focused on:
 ### OIDC AUTH CAS
 Custom OAuth 2.0 and OpenID Connect Authorization Server.
 
-**Tech:** Node.js, Express.js, MongoDB, JWT, OAuth 2.0, OIDC
-
-- Authorization Code Flow
-- RS256 Signed JWTs
-- Discovery & JWKS Endpoints
-- UserInfo API
-- Token Introspection
-- Token Revocation
-- Refresh Token Rotation
-
 ---
 
 ### IPL Management System
 
 Backend platform for managing IPL entities and relationships.
 
-**Tech:** Node.js, Express.js, MongoDB, JWT
-
-- Authentication & RBAC
-- Player Transfers
-- Team Ownership
-- Sponsor & Broadcaster Management
-- RESTful API Architecture
-
 ---
 
 ### 100 Checkboxes
 
 Real-time collaborative checkbox board.
-
-**Tech:** Express.js, Socket.IO, Redis, Docker
-
-- Shared State Synchronization
-- Redis Pub/Sub
-- Rate Limiting
-- Multi-Instance Support
-- Real-Time Updates
 
 ---
 
