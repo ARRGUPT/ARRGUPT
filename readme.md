@@ -35,11 +35,6 @@ Real-time collaborative checkbox board.
 
 ## 🚀 Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -77,11 +72,11 @@ Real-time collaborative checkbox board.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARRGUPT&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARRGUPT" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARRGUPT" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARRGUPT&layout=compact&theme=dark" />
 </p>
 
 ---
